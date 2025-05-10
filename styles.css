@@ -1,0 +1,5 @@
+body { font-family: sans-serif; margin: 2rem; }
+form button { margin-right: 10px; }
+table { width: 100%; border-collapse: collapse; margin-top: 1rem; }
+th, td { border: 1px solid #ccc; padding: 4px; font-size: 12px; text-align: center; }
+input { width: 100%; box-sizing: border-box; }
